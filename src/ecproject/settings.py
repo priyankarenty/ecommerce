@@ -20,7 +20,6 @@ INSTALLED_APPS = [
 
     #installed apps
     'import_export',
-    'report_builder',
     'chartit',
     'controlcenter',
     'bootstrap3',
